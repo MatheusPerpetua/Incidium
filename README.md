@@ -9,6 +9,10 @@ Seu objetivo é desenvolver um modelo de previsão de preços a partir do datase
 
 Este projeto requer Python 3.10.12 e as bibliotecas contidas em requeriments.txt
 
+Importante destacar que utilizei o comando "! pip freeze > requirements.txt" no qual salvou todos pacotes que estavam instalados, então pode ser que ocorra algum conflito com algum pacote pré-instalado.
+
+Caso ocorra pode evitar esses conflitos criando um novo ambiente virtual Python.
+
 Você também precisará ter software instalado para rodar e executar um Jupyter Notebook eu utilizei a IDE do VSCode.
 
 Execução
