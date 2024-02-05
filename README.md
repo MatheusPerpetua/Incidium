@@ -37,20 +37,36 @@ Dados
 Os dados do Airbnb para a cidade de Nova York estão disponíveis aqui. Aqui estão as descrições das colunas:
 
 id: ID único para cada anfitrião
+
 nome: nome do anfitrião
+
 host_id: ID do anfitrião
+
 host_name: nome do anfitrião
+
 bairro_group: grupo de bairros
+  
 bairro: bairro
+
 latitude: coordenada da latitude da propriedade
+
 longitude: coordenada da longitude da propriedade
+
 room_type: tipo de quarto
+
 price: preço em dólares
+
 minimo_noites: número mínimo de noites
+
 numero_de_reviews: número de reviews
+
 ultima_review: data da última review
+
 reviews_por_mes: número de reviews por mês
+
 calculado_host_listings_count: quantidade de locais que o anfitrião tem
+
 disponibilidade_365: número de dias de disponibilidade dentro de 365 dias
+
 
 
