@@ -14,7 +14,7 @@ Você também precisará ter software instalado para rodar e executar um Jupyter
 Execução
 Em um terminal ou janela de comando, navegue até o diretório raiz do projeto (que contém este README) e execute os seguintes comandos: 
 
-# Se estiver utilizando Ubuntu
+## Se estiver utilizando Ubuntu
 
 A partir do terminal instale:
 
@@ -22,7 +22,7 @@ pip install python-3.10.12
 
 pip install -r requirements.txt
 
-# Se estiver utilizando Windows
+## Se estiver utilizando Windows
 
 A partir do terminal instale:
 
@@ -32,7 +32,7 @@ conda activate stenv
 
 pip install -r requirements.txt
 
-Dados
+# Dados
 
 Os dados do Airbnb para a cidade de Nova York estão disponíveis aqui. Aqui estão as descrições das colunas:
 
