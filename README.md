@@ -25,7 +25,7 @@ pip install -r requirements.txt
 # Se estiver utilizando Windows
 
 A partir do terminal instale:
-``bash
+
 conda create -n stenv python=3.10.12
 
 conda activate stenv
