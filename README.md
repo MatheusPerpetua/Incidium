@@ -19,12 +19,13 @@ Em um terminal ou janela de comando, navegue até o diretório raiz do projeto (
 A partir do terminal instale:
 
 pip install python-3.10.12
+
 pip install -r requirements.txt
 
 # Se estiver utilizando Windows
 
 A partir do terminal instale:
-```bash
+``bash
 conda create -n stenv python=3.10.12
 conda activate stenv
 pip install -r requirements.txt
