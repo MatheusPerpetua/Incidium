@@ -22,7 +22,9 @@ Em um terminal ou janela de comando, navegue até o diretório raiz do projeto (
 
 A partir do terminal instale:
 
-pip install python-3.10.12
+sudo apt update
+
+sudo apt install python3.10
 
 pip install -r requirements.txt
 
