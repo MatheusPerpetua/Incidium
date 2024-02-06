@@ -15,7 +15,8 @@ Caso ocorra, poderá evitar esses conflitos criando um novo ambiente virtual Pyt
 
 Você também precisará ter software instalado para rodar e executar um Jupyter Notebook eu utilizei a IDE do VSCode.
 
-Execução
+## Execução
+
 Em um terminal ou janela de comando, navegue até o diretório raiz do projeto (que contém este README) e execute os seguintes comandos: 
 
 ## Se estiver utilizando Ubuntu
