@@ -1,4 +1,4 @@
-# Incidium
+# LH_CD_Matheus_Vieira_Perpetua
  Desafio Cientista de Dados
 
 Você foi alocado(a) em um time da Indicium que está trabalhando atualmente junto a um cliente no processo de criação de uma plataforma de aluguéis temporários na cidade de Nova York. Para o desenvolvimento de sua estratégia de precificação, pediu para que a Indicium fizesse uma análise exploratória dos dados de seu maior concorrente, assim como um teste de validação de um modelo preditivo.
@@ -15,7 +15,8 @@ Caso ocorra, poderá evitar esses conflitos criando um novo ambiente virtual Pyt
 
 Você também precisará ter software instalado para rodar e executar um Jupyter Notebook eu utilizei a IDE do VSCode.
 
-Execução
+## Execução
+
 Em um terminal ou janela de comando, navegue até o diretório raiz do projeto (que contém este README) e execute os seguintes comandos: 
 
 ## Se estiver utilizando Ubuntu
